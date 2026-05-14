@@ -4,8 +4,9 @@ A Claude Code plugin that pulls the ClickUp ticket associated with the current g
 
 ## Installation
 
-```bash
-/plugin install Breakstep-Studios/claude-read-clickup-ticket-plugin
+```
+/plugin marketplace add Breakstep-Studios/claude-plugins
+/plugin install read-clickup-ticket@breakstep-studios
 ```
 
 ## Prerequisites
