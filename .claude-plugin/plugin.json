@@ -1,0 +1,5 @@
+{
+  "name": "read-clickup-ticket",
+  "description": "Pull the ClickUp ticket associated with the current git branch into context — description, checklists, comments, and activity.",
+  "version": "1.0.0"
+}
